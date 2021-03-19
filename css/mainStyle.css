@@ -20,3 +20,6 @@ section .header ul {
 section .header ul li{
     margin:auto;
 }
+section .header ul li button{
+    border: none;
+}
